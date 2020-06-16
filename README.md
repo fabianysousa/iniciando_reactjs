@@ -43,7 +43,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 ## 💡 Insight
 
-Utilizar o framework ReactJS para front-end é muito bom, pois criar interfaces por meio da componetização
+Utilizar a biblioteca ReactJS para front-end é muito bom, pois criar interfaces por meio da componetização
 nos possibilita isolar as lógicas do front-end em cada elemento ao tornar tudo da aplicação um compotente.
 Além de tornar o código mais legível pois o seu uso torna o código mais reitilizável e menos poluído. 
 
